@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="box1">
+        <item name="android:background">@color/purple_700</item>
+    </style>
+
+    <style name="box2">
+        <item name="android:background">@color/purple_500</item>
+    </style>
+
+    <style name="box3">
+        <item name="android:background">@color/purple_200</item>
+    </style>
+</resources>
